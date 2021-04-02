@@ -37,6 +37,6 @@ support aplication :
 - css 
 - javascript
 - framewok laravel 8 
-- framewok bootstrap 
+- framewok bootstrap 4
 - adminlte template
 - klorofil template
